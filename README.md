@@ -4,5 +4,5 @@
 
 ## Skills and Experience
 * 📱 React Native
-* ⚛ ReactJs
+* ⚛ ReactJs, NextJs
 * 💻 JS, TypeScript, HTML, CSS
